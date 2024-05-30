@@ -95,7 +95,7 @@ text-decoration: line-through;
 }
 
 ul li.checked::before {
-    background-image: url(./images./checked\ \(2\).png);
+    background-image: url(./images./checked1.png);
 }
 
 ul li span {
